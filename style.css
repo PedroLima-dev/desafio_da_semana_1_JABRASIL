@@ -1,4 +1,9 @@
-*{
-    background-color: green;
-    font-family: roboto;
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h2 {
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium';
 }
